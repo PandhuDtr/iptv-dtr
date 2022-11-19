@@ -4,3 +4,8 @@
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
 https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
+
+#EXTINF:-1 tvg-id="MNC.id" tvg-logo="https://i.ibb.co/Nm5sJZr/mnc.png" group-title="General" user-agent="AppleWebKit/537.36 (KHTML, like Gecko)",MNC (720p)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
+https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
